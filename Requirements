@@ -1,4 +1,3 @@
-[17:02] Utkarsh Tripathi
 ﻿matplotlib==3.8.2
 
 matplotlib-inline==0.1.6
@@ -12,3 +11,5 @@ plotly==5.18.0
 snowflake-connector-python==3.5.0
 
 streamlit==1.28.1
+
+snowflake
